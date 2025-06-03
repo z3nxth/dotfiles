@@ -1,6 +1,7 @@
 # dotfiles
 My dotfiles and config.
 * I use a Macbook Air M3 16/512gb, which is unfortunately limited by Silicon to only MacOS natively. However, since MacOS is a unix-based operating system, much customisability can be gained.
+
   
 ![setup](setup.jpeg)
 ![setup](setup2.jpeg)
