@@ -1,7 +1,9 @@
 # dotfiles
 My dotfiles and config.
 * Macbook Air M3 16/512gb
-![setup](setup.jpg)
+![setup](setup.jpeg)
+![setup](setup2.jpeg)
+
 ## Things I use
 * **Yabai**: window tiling manager
 * **Simple-bar**: uses übersitch to show a custom waybar [default config for this.]
