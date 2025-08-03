@@ -2,6 +2,7 @@
 My dotfiles and config.
 * I use a Macbook Air M3 16/512gb, which is unfortunately limited by Silicon to only MacOS natively. However, since MacOS is a unix-based operating system, much customisability can be gained.
 
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/a390e0a7-bb90-4add-834c-187dbac951e5" />
   
 ![setup](setup.jpeg)
 ![setup](setup2.jpeg)
